@@ -20,6 +20,6 @@ try:
            print "\nPower 2: %s Watts" % P2
            print "\nPower 3: %s Watts" % P3
            time.sleep(5)
-           
+
 except KeyboardInterrupt:
     print "error"
