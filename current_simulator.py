@@ -1,5 +1,4 @@
-
-import argparse
+#!/usr/bin/python
 
 from influxdb import InfluxDBClient
 from influxdb.client import InfluxDBClientError
