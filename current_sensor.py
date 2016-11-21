@@ -33,7 +33,7 @@ def main():
                        pointValues = {
                                "time": now.strftime ("%Y-%m-%d %H:%M:%S"),
                                # "time": int(past_date.strftime('%s')),
-                               "measurement": metric1
+                               "measurement": metric
                                'fields':  {
                                    'value1': z[0],
                                    'value2': z[1],
